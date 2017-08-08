@@ -1,3 +1,24 @@
 h3,h1{
   text-align: center;
 }
+.clickable {
+  cursor:pointer;
+  color:#09e4e3;
+}
+.clickable:hover{
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor:pointer;
+  color:#09e4e3;
+}
+.clickable2:hover{
+  text-decoration: underline;
+}
+.hideTerm{
+  display:none;
+}
+
+.hide2{
+  display:none;
+}
